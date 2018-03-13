@@ -1,0 +1,642 @@
+[
+    {
+        "boardName": "Gossiping",
+        "boardClass": "綜合",
+        "boardLink": "https://www.ptt.cc/bbs/Gossiping/index.html"
+    },
+    {
+        "boardName": "C_Chat",
+        "boardClass": "閒談",
+        "boardLink": "https://www.ptt.cc/bbs/C_Chat/index.html"
+    },
+    {
+        "boardName": "NBA",
+        "boardClass": "籃球",
+        "boardLink": "https://www.ptt.cc/bbs/NBA/index.html"
+    },
+    {
+        "boardName": "sex",
+        "boardClass": "男女",
+        "boardLink": "https://www.ptt.cc/bbs/sex/index.html"
+    },
+    {
+        "boardName": "LoL",
+        "boardClass": "遊戲",
+        "boardLink": "https://www.ptt.cc/bbs/LoL/index.html"
+    },
+    {
+        "boardName": "Stock",
+        "boardClass": "學術",
+        "boardLink": "https://www.ptt.cc/bbs/Stock/index.html"
+    },
+    {
+        "boardName": "Baseball",
+        "boardClass": "棒球",
+        "boardLink": "https://www.ptt.cc/bbs/Baseball/index.html"
+    },
+    {
+        "boardName": "movie",
+        "boardClass": "綜合",
+        "boardLink": "https://www.ptt.cc/bbs/movie/index.html"
+    },
+    {
+        "boardName": "MobileComm",
+        "boardClass": "資訊",
+        "boardLink": "https://www.ptt.cc/bbs/MobileComm/index.html"
+    },
+    {
+        "boardName": "WomenTalk",
+        "boardClass": "聊天",
+        "boardLink": "https://www.ptt.cc/bbs/WomenTalk/index.html"
+    },
+    {
+        "boardName": "marvel",
+        "boardClass": "生二",
+        "boardLink": "https://www.ptt.cc/bbs/marvel/index.html"
+    },
+    {
+        "boardName": "car",
+        "boardClass": "車車",
+        "boardLink": "https://www.ptt.cc/bbs/car/index.html"
+    },
+    {
+        "boardName": "joke",
+        "boardClass": "娛樂",
+        "boardLink": "https://www.ptt.cc/bbs/joke/index.html"
+    },
+    {
+        "boardName": "Hearthstone",
+        "boardClass": "線上",
+        "boardLink": "https://www.ptt.cc/bbs/Hearthstone/index.html"
+    },
+    {
+        "boardName": "Tech_Job",
+        "boardClass": "工作",
+        "boardLink": "https://www.ptt.cc/bbs/Tech_Job/index.html"
+    },
+    {
+        "boardName": "Boy-Girl",
+        "boardClass": "心情",
+        "boardLink": "https://www.ptt.cc/bbs/Boy-Girl/index.html"
+    },
+    {
+        "boardName": "Lifeismoney",
+        "boardClass": "省錢",
+        "boardLink": "https://www.ptt.cc/bbs/Lifeismoney/index.html"
+    },
+    {
+        "boardName": "PlayStation",
+        "boardClass": "主機",
+        "boardLink": "https://www.ptt.cc/bbs/PlayStation/index.html"
+    },
+    {
+        "boardName": "Japan_Travel",
+        "boardClass": "旅遊",
+        "boardLink": "https://www.ptt.cc/bbs/Japan_Travel/index.html"
+    },
+    {
+        "boardName": "BabyMother",
+        "boardClass": "家庭",
+        "boardLink": "https://www.ptt.cc/bbs/BabyMother/index.html"
+    },
+    {
+        "boardName": "KR_Entertain",
+        "boardClass": "綜藝",
+        "boardLink": "https://www.ptt.cc/bbs/KR_Entertain/index.html"
+    },
+    {
+        "boardName": "TypeMoon",
+        "boardClass": "型月",
+        "boardLink": "https://www.ptt.cc/bbs/TypeMoon/index.html"
+    },
+    {
+        "boardName": "marriage",
+        "boardClass": "婚姻",
+        "boardLink": "https://www.ptt.cc/bbs/marriage/index.html"
+    },
+    {
+        "boardName": "ToS",
+        "boardClass": "轉珠",
+        "boardLink": "https://www.ptt.cc/bbs/ToS/index.html"
+    },
+    {
+        "boardName": "Beauty",
+        "boardClass": "聊天",
+        "boardLink": "https://www.ptt.cc/bbs/Beauty/index.html"
+    },
+    {
+        "boardName": "NSwitch",
+        "boardClass": "主機",
+        "boardLink": "https://www.ptt.cc/bbs/NSwitch/index.html"
+    },
+    {
+        "boardName": "PC_Shopping",
+        "boardClass": "硬體",
+        "boardLink": "https://www.ptt.cc/bbs/PC_Shopping/index.html"
+    },
+    {
+        "boardName": "e-shopping",
+        "boardClass": "網購",
+        "boardLink": "https://www.ptt.cc/bbs/e-shopping/index.html"
+    },
+    {
+        "boardName": "MH",
+        "boardClass": "狩獵",
+        "boardLink": "https://www.ptt.cc/bbs/MH/index.html"
+    },
+    {
+        "boardName": "StupidClown",
+        "boardClass": "經歷",
+        "boardLink": "https://www.ptt.cc/bbs/StupidClown/index.html"
+    },
+    {
+        "boardName": "AllTogether",
+        "boardClass": "聯誼",
+        "boardLink": "https://www.ptt.cc/bbs/AllTogether/index.html"
+    },
+    {
+        "boardName": "Salary",
+        "boardClass": "職場",
+        "boardLink": "https://www.ptt.cc/bbs/Salary/index.html"
+    },
+    {
+        "boardName": "MakeUp",
+        "boardClass": "美容",
+        "boardLink": "https://www.ptt.cc/bbs/MakeUp/index.html"
+    },
+    {
+        "boardName": "KanColle",
+        "boardClass": "艦娘",
+        "boardLink": "https://www.ptt.cc/bbs/KanColle/index.html"
+    },
+    {
+        "boardName": "KoreaStar",
+        "boardClass": "韓國",
+        "boardLink": "https://www.ptt.cc/bbs/KoreaStar/index.html"
+    },
+    {
+        "boardName": "Lineage",
+        "boardClass": "線上",
+        "boardLink": "https://www.ptt.cc/bbs/Lineage/index.html"
+    },
+    {
+        "boardName": "Steam",
+        "boardClass": "平台",
+        "boardLink": "https://www.ptt.cc/bbs/Steam/index.html"
+    },
+    {
+        "boardName": "creditcard",
+        "boardClass": "理財",
+        "boardLink": "https://www.ptt.cc/bbs/creditcard/index.html"
+    },
+    {
+        "boardName": "Japandrama",
+        "boardClass": "日劇",
+        "boardLink": "https://www.ptt.cc/bbs/Japandrama/index.html"
+    },
+    {
+        "boardName": "japanavgirls",
+        "boardClass": "綜合",
+        "boardLink": "https://www.ptt.cc/bbs/japanavgirls/index.html"
+    },
+    {
+        "boardName": "HardwareSale",
+        "boardClass": "買賣",
+        "boardLink": "https://www.ptt.cc/bbs/HardwareSale/index.html"
+    },
+    {
+        "boardName": "CFantasy",
+        "boardClass": "玄幻",
+        "boardLink": "https://www.ptt.cc/bbs/CFantasy/index.html"
+    },
+    {
+        "boardName": "home-sale",
+        "boardClass": "房屋",
+        "boardLink": "https://www.ptt.cc/bbs/home-sale/index.html"
+    },
+    {
+        "boardName": "Option",
+        "boardClass": "學術",
+        "boardLink": "https://www.ptt.cc/bbs/Option/index.html"
+    },
+    {
+        "boardName": "KoreaDrama",
+        "boardClass": "韓劇",
+        "boardLink": "https://www.ptt.cc/bbs/KoreaDrama/index.html"
+    },
+    {
+        "boardName": "Tainan",
+        "boardClass": "台南",
+        "boardLink": "https://www.ptt.cc/bbs/Tainan/index.html"
+    },
+    {
+        "boardName": "NBA_Film",
+        "boardClass": "NBA.",
+        "boardLink": "https://www.ptt.cc/bbs/NBA_Film/index.html"
+    },
+    {
+        "boardName": "BuyTogether",
+        "boardClass": "買賣",
+        "boardLink": "https://www.ptt.cc/bbs/BuyTogether/index.html"
+    },
+    {
+        "boardName": "PokemonGO",
+        "boardClass": "抓寶",
+        "boardLink": "https://www.ptt.cc/bbs/PokemonGO/index.html"
+    },
+    {
+        "boardName": "Kaohsiung",
+        "boardClass": "高雄",
+        "boardLink": "https://www.ptt.cc/bbs/Kaohsiung/index.html"
+    },
+    {
+        "boardName": "iOS",
+        "boardClass": "系統",
+        "boardLink": "https://www.ptt.cc/bbs/iOS/index.html"
+    },
+    {
+        "boardName": "graduate",
+        "boardClass": "研究",
+        "boardLink": "https://www.ptt.cc/bbs/graduate/index.html"
+    },
+    {
+        "boardName": "YuanChuang",
+        "boardClass": "原創",
+        "boardLink": "https://www.ptt.cc/bbs/YuanChuang/index.html"
+    },
+    {
+        "boardName": "HatePolitics",
+        "boardClass": "Hate",
+        "boardLink": "https://www.ptt.cc/bbs/HatePolitics/index.html"
+    },
+    {
+        "boardName": "BeautySalon",
+        "boardClass": "美容",
+        "boardLink": "https://www.ptt.cc/bbs/BeautySalon/index.html"
+    },
+    {
+        "boardName": "TaichungBun",
+        "boardClass": "台中",
+        "boardLink": "https://www.ptt.cc/bbs/TaichungBun/index.html"
+    },
+    {
+        "boardName": "WOW",
+        "boardClass": "線上",
+        "boardLink": "https://www.ptt.cc/bbs/WOW/index.html"
+    },
+    {
+        "boardName": "basketballTW",
+        "boardClass": "籃球",
+        "boardLink": "https://www.ptt.cc/bbs/basketballTW/index.html"
+    },
+    {
+        "boardName": "EAseries",
+        "boardClass": "歐美",
+        "boardLink": "https://www.ptt.cc/bbs/EAseries/index.html"
+    },
+    {
+        "boardName": "Gamesale",
+        "boardClass": "綜合",
+        "boardLink": "https://www.ptt.cc/bbs/Gamesale/index.html"
+    },
+    {
+        "boardName": "ONE_PIECE",
+        "boardClass": "日本",
+        "boardLink": "https://www.ptt.cc/bbs/ONE_PIECE/index.html"
+    },
+    {
+        "boardName": "AC_In",
+        "boardClass": "閒談",
+        "boardLink": "https://www.ptt.cc/bbs/AC_In/index.html"
+    },
+    {
+        "boardName": "PuzzleDragon",
+        "boardClass": "轉珠",
+        "boardLink": "https://www.ptt.cc/bbs/PuzzleDragon/index.html"
+    },
+    {
+        "boardName": "DSLR",
+        "boardClass": "攝影",
+        "boardLink": "https://www.ptt.cc/bbs/DSLR/index.html"
+    },
+    {
+        "boardName": "SportLottery",
+        "boardClass": "博弈",
+        "boardLink": "https://www.ptt.cc/bbs/SportLottery/index.html"
+    },
+    {
+        "boardName": "KoreanPop",
+        "boardClass": "音樂",
+        "boardLink": "https://www.ptt.cc/bbs/KoreanPop/index.html"
+    },
+    {
+        "boardName": "PUBG",
+        "boardClass": "射擊",
+        "boardLink": "https://www.ptt.cc/bbs/PUBG/index.html"
+    },
+    {
+        "boardName": "MuscleBeach",
+        "boardClass": "美體",
+        "boardLink": "https://www.ptt.cc/bbs/MuscleBeach/index.html"
+    },
+    {
+        "boardName": "Headphone",
+        "boardClass": "資訊",
+        "boardLink": "https://www.ptt.cc/bbs/Headphone/index.html"
+    },
+    {
+        "boardName": "MLB",
+        "boardClass": "*MLB",
+        "boardLink": "https://www.ptt.cc/bbs/MLB/index.html"
+    },
+    {
+        "boardName": "Tennis",
+        "boardClass": "網球",
+        "boardLink": "https://www.ptt.cc/bbs/Tennis/index.html"
+    },
+    {
+        "boardName": "DigiCurrency",
+        "boardClass": "資訊",
+        "boardLink": "https://www.ptt.cc/bbs/DigiCurrency/index.html"
+    },
+    {
+        "boardName": "CVS",
+        "boardClass": "資訊",
+        "boardLink": "https://www.ptt.cc/bbs/CVS/index.html"
+    },
+    {
+        "boardName": "part-time",
+        "boardClass": "求職",
+        "boardLink": "https://www.ptt.cc/bbs/part-time/index.html"
+    },
+    {
+        "boardName": "GetMarry",
+        "boardClass": "結婚",
+        "boardLink": "https://www.ptt.cc/bbs/GetMarry/index.html"
+    },
+    {
+        "boardName": "mobilesales",
+        "boardClass": "資訊",
+        "boardLink": "https://www.ptt.cc/bbs/mobilesales/index.html"
+    },
+    {
+        "boardName": "PathofExile",
+        "boardClass": "線上",
+        "boardLink": "https://www.ptt.cc/bbs/PathofExile/index.html"
+    },
+    {
+        "boardName": "Wanted",
+        "boardClass": "徵求",
+        "boardLink": "https://www.ptt.cc/bbs/Wanted/index.html"
+    },
+    {
+        "boardName": "biker",
+        "boardClass": "車車",
+        "boardLink": "https://www.ptt.cc/bbs/biker/index.html"
+    },
+    {
+        "boardName": "TaiwanDrama",
+        "boardClass": "臺劇",
+        "boardLink": "https://www.ptt.cc/bbs/TaiwanDrama/index.html"
+    },
+    {
+        "boardName": "Food",
+        "boardClass": "美食",
+        "boardLink": "https://www.ptt.cc/bbs/Food/index.html"
+    },
+    {
+        "boardName": "Aviation",
+        "boardClass": "交通",
+        "boardLink": "https://www.ptt.cc/bbs/Aviation/index.html"
+    },
+    {
+        "boardName": "Elephants",
+        "boardClass": "CPBL",
+        "boardLink": "https://www.ptt.cc/bbs/Elephants/index.html"
+    },
+    {
+        "boardName": "GBF",
+        "boardClass": "扮演",
+        "boardLink": "https://www.ptt.cc/bbs/GBF/index.html"
+    },
+    {
+        "boardName": "TW_Entertain",
+        "boardClass": "綜藝",
+        "boardLink": "https://www.ptt.cc/bbs/TW_Entertain/index.html"
+    },
+    {
+        "boardName": "Soft_Job",
+        "boardClass": "工作",
+        "boardLink": "https://www.ptt.cc/bbs/Soft_Job/index.html"
+    },
+    {
+        "boardName": "DMM_GAMES",
+        "boardClass": "遊戲",
+        "boardLink": "https://www.ptt.cc/bbs/DMM_GAMES/index.html"
+    },
+    {
+        "boardName": "Hunter",
+        "boardClass": "日本",
+        "boardLink": "https://www.ptt.cc/bbs/Hunter/index.html"
+    },
+    {
+        "boardName": "Hsinchu",
+        "boardClass": "新竹",
+        "boardLink": "https://www.ptt.cc/bbs/Hsinchu/index.html"
+    },
+    {
+        "boardName": "AKB48",
+        "boardClass": "日本",
+        "boardLink": "https://www.ptt.cc/bbs/AKB48/index.html"
+    },
+    {
+        "boardName": "Examination",
+        "boardClass": "考試",
+        "boardLink": "https://www.ptt.cc/bbs/Examination/index.html"
+    },
+    {
+        "boardName": "RO_Mobile",
+        "boardClass": "手遊",
+        "boardLink": "https://www.ptt.cc/bbs/RO_Mobile/index.html"
+    },
+    {
+        "boardName": "CarShop",
+        "boardClass": "買賣",
+        "boardLink": "https://www.ptt.cc/bbs/CarShop/index.html"
+    },
+    {
+        "boardName": "TWICE",
+        "boardClass": "韓國",
+        "boardLink": "https://www.ptt.cc/bbs/TWICE/index.html"
+    },
+    {
+        "boardName": "China-Drama",
+        "boardClass": "陸劇",
+        "boardLink": "https://www.ptt.cc/bbs/China-Drama/index.html"
+    },
+    {
+        "boardName": "Palmar_Drama",
+        "boardClass": "布袋",
+        "boardLink": "https://www.ptt.cc/bbs/Palmar_Drama/index.html"
+    },
+    {
+        "boardName": "feminine_sex",
+        "boardClass": "男女",
+        "boardLink": "https://www.ptt.cc/bbs/feminine_sex/index.html"
+    },
+    {
+        "boardName": "Guardians",
+        "boardClass": "CPBL",
+        "boardLink": "https://www.ptt.cc/bbs/Guardians/index.html"
+    },
+    {
+        "boardName": "lesbian",
+        "boardClass": "男女",
+        "boardLink": "https://www.ptt.cc/bbs/lesbian/index.html"
+    },
+    {
+        "boardName": "job",
+        "boardClass": "求職",
+        "boardLink": "https://www.ptt.cc/bbs/job/index.html"
+    },
+    {
+        "boardName": "nb-shopping",
+        "boardClass": "硬體",
+        "boardLink": "https://www.ptt.cc/bbs/nb-shopping/index.html"
+    },
+    {
+        "boardName": "cookclub",
+        "boardClass": "烹飪",
+        "boardLink": "https://www.ptt.cc/bbs/cookclub/index.html"
+    },
+    {
+        "boardName": "FITNESS",
+        "boardClass": "美體",
+        "boardLink": "https://www.ptt.cc/bbs/FITNESS/index.html"
+    },
+    {
+        "boardName": "cat",
+        "boardClass": "寵物",
+        "boardLink": "https://www.ptt.cc/bbs/cat/index.html"
+    },
+    {
+        "boardName": "BTS",
+        "boardClass": "韓國",
+        "boardLink": "https://www.ptt.cc/bbs/BTS/index.html"
+    },
+    {
+        "boardName": "BB-Love",
+        "boardClass": "屬性",
+        "boardLink": "https://www.ptt.cc/bbs/BB-Love/index.html"
+    },
+    {
+        "boardName": "HelpBuy",
+        "boardClass": "買賣",
+        "boardLink": "https://www.ptt.cc/bbs/HelpBuy/index.html"
+    },
+    {
+        "boardName": "Suckcomic",
+        "boardClass": "吐槽",
+        "boardLink": "https://www.ptt.cc/bbs/Suckcomic/index.html"
+    },
+    {
+        "boardName": "LGBT_SEX",
+        "boardClass": "男女",
+        "boardLink": "https://www.ptt.cc/bbs/LGBT_SEX/index.html"
+    },
+    {
+        "boardName": "studyabroad",
+        "boardClass": "留學",
+        "boardLink": "https://www.ptt.cc/bbs/studyabroad/index.html"
+    },
+    {
+        "boardName": "OverWatch",
+        "boardClass": "線上",
+        "boardLink": "https://www.ptt.cc/bbs/OverWatch/index.html"
+    },
+    {
+        "boardName": "H-GAME",
+        "boardClass": "綜合",
+        "boardLink": "https://www.ptt.cc/bbs/H-GAME/index.html"
+    },
+    {
+        "boardName": "Zastrology",
+        "boardClass": "星座",
+        "boardLink": "https://www.ptt.cc/bbs/Zastrology/index.html"
+    },
+    {
+        "boardName": "HBL",
+        "boardClass": "籃球",
+        "boardLink": "https://www.ptt.cc/bbs/HBL/index.html"
+    },
+    {
+        "boardName": "RO",
+        "boardClass": "線上",
+        "boardLink": "https://www.ptt.cc/bbs/RO/index.html"
+    },
+    {
+        "boardName": "RealmOfValor",
+        "boardClass": "手遊",
+        "boardLink": "https://www.ptt.cc/bbs/RealmOfValor/index.html"
+    },
+    {
+        "boardName": "forsale",
+        "boardClass": "市場",
+        "boardLink": "https://www.ptt.cc/bbs/forsale/index.html"
+    },
+    {
+        "boardName": "Lakers",
+        "boardClass": "球隊",
+        "boardLink": "https://www.ptt.cc/bbs/Lakers/index.html"
+    },
+    {
+        "boardName": "Shadowverse",
+        "boardClass": "線上",
+        "boardLink": "https://www.ptt.cc/bbs/Shadowverse/index.html"
+    },
+    {
+        "boardName": "Isayama",
+        "boardClass": "日本",
+        "boardLink": "https://www.ptt.cc/bbs/Isayama/index.html"
+    },
+    {
+        "boardName": "IdolMaster",
+        "boardClass": "偶像",
+        "boardLink": "https://www.ptt.cc/bbs/IdolMaster/index.html"
+    },
+    {
+        "boardName": "Key_Mou_Pad",
+        "boardClass": "生活",
+        "boardLink": "https://www.ptt.cc/bbs/Key_Mou_Pad/index.html"
+    },
+    {
+        "boardName": "fastfood",
+        "boardClass": "美食",
+        "boardLink": "https://www.ptt.cc/bbs/fastfood/index.html"
+    },
+    {
+        "boardName": "GirlsFront",
+        "boardClass": "手遊",
+        "boardLink": "https://www.ptt.cc/bbs/GirlsFront/index.html"
+    },
+    {
+        "boardName": "FireEmblem",
+        "boardClass": "遊戲",
+        "boardLink": "https://www.ptt.cc/bbs/FireEmblem/index.html"
+    },
+    {
+        "boardName": "SET",
+        "boardClass": "頻道",
+        "boardLink": "https://www.ptt.cc/bbs/SET/index.html"
+    },
+    {
+        "boardName": "Drama-Ticket",
+        "boardClass": "舞臺",
+        "boardLink": "https://www.ptt.cc/bbs/Drama-Ticket/index.html"
+    },
+    {
+        "boardName": "points",
+        "boardClass": "旅遊",
+        "boardLink": "https://www.ptt.cc/bbs/points/index.html"
+    }
+]

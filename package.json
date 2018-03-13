@@ -1,0 +1,30 @@
+{
+   "name": "mypackage",
+   "version": "1.0.0",
+   "description": "Sample package for CommonJS. This package demonstrates the required elements of a CommonJS package.",
+   "keywords": [
+       "package",
+       "example" 
+   ],
+   "maintainers": [
+       {
+           "name": "Jay Hung",
+           "email": "jayhung97724@gmail.com"
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "https://github.com/jayhung97724/106-2NCHUIT-web.git" 
+       } 
+   ],
+   "dependencies": {
+       "request": "2.83.0",
+       "request-promise": "4.2.2",
+       "q": "1.5.1",
+       "cheerio": "1.0.0-rc.2"
+   },
+   "scripts": {
+        "test": "node fetchIndex.js"
+    }
+}
