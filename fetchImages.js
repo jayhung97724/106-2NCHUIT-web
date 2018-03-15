@@ -16,6 +16,7 @@ for (let index = 0; index < articleArr.length; index++) {
 }
 console.log(urls);
 let fetchPages = (urls) => {
+    console.log('reqq')
     urls.forEach((url) => {
         promises.push(request(url));
     });
@@ -58,6 +59,8 @@ fetchPages(urls).then((pages) => {
         // articleImages.push(imgLinks);
     }
     writeJSON();
+}).catch((err) => {
+    console.log(err)
 });
 
 // pages.forEach(($) => {
