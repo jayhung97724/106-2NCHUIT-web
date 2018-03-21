@@ -1,3 +1,6 @@
+.header {
+    margin-top: 32px;
+}
 .segment {
     display: flex;
     border: none !important;
