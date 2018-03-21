@@ -1,24 +1,25 @@
 {
-   "name": "mypackage",
-   "version": "1.0.0",
-   "description": "Sample package for CommonJS. This package demonstrates the required elements of a CommonJS package.",
-   "keywords": [
-       "package",
-       "example" 
-   ],
-   "maintainers": [
-       {
-           "name": "Jay Hung",
-           "email": "jayhung97724@gmail.com"
-       } 
-   ],
-   "dependencies": {
-       "request": "2.83.0",
-       "request-promise": "4.2.2",
-       "q": "1.5.1",
-       "cheerio": "1.0.0-rc.2"
-   },
-   "scripts": {
-        "test": "node fetchIndex.js"
-    }
+  "name": "106-2nchuit-web",
+  "version": "1.0.0",
+  "description": "This a small project on parser for NCHUIT club classes, which uses [node](https://nodejs.org/en/), [request](https://github.com/request/request) and [cheerio](https://github.com/cheeriojs/cheerio).",
+  "main": "fetchBeauty.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "q": "^1.5.1",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayhung97724/106-2NCHUIT-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayhung97724/106-2NCHUIT-web/issues"
+  },
+  "homepage": "https://github.com/jayhung97724/106-2NCHUIT-web#readme"
 }
