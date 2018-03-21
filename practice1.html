@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Practice 1</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.css" />
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    <div class="ui segment">
+        <div class="ui centered huge header">練習一</div>
+    </div>
+    <div class="ui segment">
+        <div class="ui styled accordion">
+            <template id="articleTemplate">
+                <div class="title"><i class="dropdown icon"></i><span>title1</span></div>
+                <div class="content">
+                    <p class="transition hidden">
+                        <div>
+                            <div class="imgBox">
+                                <img class="myImage" src="#">
+                            </div>
+                        </div>
+                    </p>
+                </div>
+            </template>
+            <!-- <div class="title"><i class="dropdown icon"></i>title1</div>
+            <div class="content">
+                <p class="transition hidden">
+                    <img class="ui medium rounded image" src="https://i.imgur.com/RF4pIXo.jpg">
+                </p>
+            </div> -->
+        </div>
+    </div>
+     <!-- (.title>i.dropdown.icon^.content>p.transition.hidden)*3 -->
+
+
+    <!-- 遠端套件 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.js"></script>
+
+    <!-- 自己寫 -->
+    <script src="./scripts/main.js"></script>
+</body>
+</html>
