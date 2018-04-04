@@ -1,7 +1,11 @@
-.header {
+.huge {
     margin-top: 32px !important;
+    margin-bottom: 16px !important;
 }
-.segment {
+.tiny {
+    margin-top: 8px !important;
+}
+.down {
     display: flex;
     border: none !important;
     justify-content: center;
