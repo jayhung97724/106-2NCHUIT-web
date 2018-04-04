@@ -7,7 +7,7 @@ This a small project on parser for NCHUIT club classes, which uses [node](https:
 **[爬蟲練習](./practice1.html)**
 
 ## How to use:
-* You can check our tutorial first: https://hackmd.io/s/SJ7-20Qdz
+* You can check our tutorial first: [https://hackmd.io/s/SJ7-20Qdz](https://hackmd.io/s/SJ7-20Qdz)
 * Fist of all, you need to download [**node**](https://nodejs.org/en/).
 * The most basic example is `fetchIndex.js`
 * Then try `fetchBeauty.js` to get all the articles on ptt index.
