@@ -15,3 +15,5 @@ This a small project on parser for NCHUIT club classes, which uses [node](https:
 
 ## Other club members' work:
 * [yourname](url_here)
+* 肥宅(https://syokujinau.github.io/hentai/)
+
