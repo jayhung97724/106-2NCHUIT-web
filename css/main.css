@@ -21,3 +21,11 @@
     border-radius: 0.8rem;
     box-shadow: 4px 4px 16px -4px rgba(0, 0, 0, 0.8);
 }
+.top {
+    border: none !important;
+    box-shadow: none !important;
+}
+.footer {
+    border: none !important;
+    box-shadow: none !important;
+}

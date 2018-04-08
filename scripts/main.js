@@ -23,6 +23,6 @@ $.getJSON("./HotBeauties.json", (file) => {
         $accordion.append(title);
         $accordion.append(content);
     })
+    $('.accordion').accordion('open', 0);
 });
 
-$('.accordion').accordion();
