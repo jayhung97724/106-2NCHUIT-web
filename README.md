@@ -9,6 +9,7 @@ This a small project on parser for NCHUIT club classes, which uses [node](https:
 ## How to use:
 * You can check our tutorial first: [https://hackmd.io/s/SJ7-20Qdz](https://hackmd.io/s/SJ7-20Qdz)
 * Fist of all, you need to download [**node**](https://nodejs.org/en/).
+* To execute a `.js` file, jsut run `node [filename.js]`.
 * The most basic example is `fetchIndex.js`
 * Then try `fetchBeauty.js` to get all the articles on ptt index.
 * At last `fetchImages.js` get all the img links of the beauty.
