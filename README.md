@@ -14,6 +14,14 @@ This a small project on parser for NCHUIT club classes, which uses [node](https:
 * At last `fetchImages.js` get all the img links of the beauty.
 
 ## Other club members' work:
-* [yourname](url_here)
-* [肥宅](https://syokujinau.github.io/hentai/)
+1. [yourname](url_here)
+2. [肥宅](https://syokujinau.github.io/hentai/)
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 
