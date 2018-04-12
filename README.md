@@ -22,7 +22,7 @@ This a small project on parser for NCHUIT club classes, which uses [node](https:
 5. [易又](https://blackrabit13.github.io/leo11/nne.html)
 6. [台南傳說賴清德](https://tainanking.github.io/TainanKing/)
 7. [謝龍介](https://sam60317.github.io/representative/index.html)
-8. 
+8. [陳俊元](https://froggyis.github.io/test/index.html)
 9. [双](https://jimmy3637.github.io/break/)
 10. 
 
