@@ -21,7 +21,7 @@ This a small project on parser for NCHUIT club classes, which uses [node](https:
 4. 
 5. 
 6. [台南傳說賴清德](https://tainanking.github.io/TainanKing/)
-7. 
+7. [謝龍介](https://sam60317.github.io/representative/index.html)
 8. 
 9. 
 10. 
