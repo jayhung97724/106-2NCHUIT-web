@@ -1,4 +1,4 @@
-# 106-2NCHUIT-web
+﻿# 106-2NCHUIT-web
 
 This a small project on parser for NCHUIT club classes, which uses [node](https://nodejs.org/en/), [request](https://github.com/request/request) and [cheerio](https://github.com/cheeriojs/cheerio).
 
@@ -17,12 +17,12 @@ This a small project on parser for NCHUIT club classes, which uses [node](https:
 ## Other club members' work:
 1. [yourname](url_here)
 2. [肥宅](https://syokujinau.github.io/hentai/)
-3. 
-4. 
+3. [   ](https://nike00811.github.io/helloworld/)
+4. [陳韜](https://tommychen0617.github.io/hentai/)
 5. [易又](https://blackrabit13.github.io/leo11/nne.html)
-6. 
-7. 
+6. [台南傳說賴清德](https://tainanking.github.io/TainanKing/)
+7. [謝龍介](https://sam60317.github.io/representative/index.html)
 8. 
-9. 
+9. [双](https://jimmy3637.github.io/break/)
 10. 
 
