@@ -1,4 +1,4 @@
-# 106-2NCHUIT-web
+﻿# 106-2NCHUIT-web
 
 This a small project on parser for NCHUIT club classes, which uses [node](https://nodejs.org/en/), [request](https://github.com/request/request) and [cheerio](https://github.com/cheeriojs/cheerio).
 
@@ -20,7 +20,7 @@ This a small project on parser for NCHUIT club classes, which uses [node](https:
 3. 
 4. 
 5. 
-6. 
+6. [台南傳說賴清德](https://tainanking.github.io/TainanKing/)
 7. 
 8. 
 9. 
