@@ -1,4 +1,4 @@
-# 106-2NCHUIT-web
+﻿# 106-2NCHUIT-web
 
 This a small project on parser for NCHUIT club classes, which uses [node](https://nodejs.org/en/), [request](https://github.com/request/request) and [cheerio](https://github.com/cheeriojs/cheerio).
 
@@ -17,7 +17,7 @@ This a small project on parser for NCHUIT club classes, which uses [node](https:
 ## Other club members' work:
 1. [yourname](url_here)
 2. [肥宅](https://syokujinau.github.io/hentai/)
-3. 
+3. [   ](https://nike00811.github.io/helloworld/)
 4. 
 5. 
 6. 
