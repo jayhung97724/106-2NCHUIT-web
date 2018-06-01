@@ -1,4 +1,6 @@
-﻿# 106-2NCHUIT Web 爬蟲社課
+﻿# 106-2NCHUIT Web 
+
+## 中文講解：https://hackmd.io/s/SJ33QAAJm
 
 This a small project on parser for NCHUIT club classes, which uses [node](https://nodejs.org/en/), [request](https://github.com/request/request) and [cheerio](https://github.com/cheeriojs/cheerio).
 
@@ -25,4 +27,3 @@ This a small project on parser for NCHUIT club classes, which uses [node](https:
 8. [陳俊元](https://froggyis.github.io/test/index.html)
 9. [双](https://jimmy3637.github.io/break/)
 10. 
-
